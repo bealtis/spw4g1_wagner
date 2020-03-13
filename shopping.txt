@@ -15,3 +15,4 @@ Marmelade
 Honig
 Eier
 Kipferl
+Schokolade
