@@ -16,3 +16,4 @@ Honig
 Eier
 Kipferl
 Schokolade
+Semmerl
